@@ -1,11 +1,11 @@
 
 **Pac-Man Multi-Agent Project**
 
-**Course:** Fundamentals of Artificial Intelligence  
-**University:** Faculty of Technical Sciences, Novi Sad  
-**Field of Study:** Software Engineering and Information Technologies  
-**Project:** Multi-Agent Pac-Man  
-**Student:** Marko Suhanov  
+**Course:** *Fundamentals of Artificial Intelligence*  
+**University:** _Faculty of Technical Sciences, Novi Sad_  
+**Field of Study:** **Software Engineering and Information Technologies**  
+**Project:** *Multi-Agent Pac-Man*  
+**Student:** __Marko Suhanov__  
 
 
 Description:
